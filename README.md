@@ -1,4 +1,4 @@
-## Hi👋, I'm Yousef !
+# Hi👋, I'm Yousef !
 👨‍💻 IT Student sharing my journey and experiences in the tech world.<br>
 🎓 Studied IT at QU University.<br>
 🚀 Developed multiple Front-end projects, enhancing user experience with seamless and efficient designs.<br>
