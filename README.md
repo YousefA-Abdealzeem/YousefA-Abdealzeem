@@ -18,4 +18,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
 ## 📊 GitHub Stats:
-![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YousefA-Abdealzeem&show_icons=true&theme=dark)
+![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YousefA-Abdealzeem&show_icons=true&theme=dark)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefA-Abdealzeem&layout=compact&langs_count=10&theme=dark)
+
