@@ -26,7 +26,7 @@
 ![Angular](https://img.shields.io/badge/Angular-gray?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-gray?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-gray?style=for-the-badge&logo=adobelightroom&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-gray?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YousefA-Abdealzeem&show_icons=true&theme=dark)<br>
