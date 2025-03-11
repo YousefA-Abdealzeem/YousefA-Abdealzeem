@@ -32,7 +32,8 @@
 
 #### 🎨 **Design & Editing**
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-
+![Final Cut Pro](https://img.shields.io/badge/Final%20Cut%20Pro-FF9500?style=for-the-badge&logo=final-cut-pro&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-ffffff?style=for-the-badge&logo=capcut&logoColor=black)
 
 ## 📊 GitHub Stats:
 ![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YousefA-Abdealzeem&show_icons=true&theme=dark)<br>
