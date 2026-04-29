@@ -1,41 +1,132 @@
-# Hi👋, I'm Yousef !
-👨‍💻 IT Student sharing my journey and experiences in the tech world.<br>
-🎓 Studied IT at QU University.<br>
-🚀 Developed multiple Front-end projects, enhancing user experience with seamless and efficient designs.<br>
-💻 Front-end Developer specializing in HTML, CSS, JavaScript, and Bootstrap.<br>
-🌱 Currently learning Back-end development to become a Full Stack Developer.<br>
-## 🌍 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/yousef-alian-7a35ba29a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/201050202407" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.instagram.com/yousefaliann" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yousef%20Abdelazeem&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20•%20Egypt%20🇪🇬&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Yousef+Abdelazeem!;Graduate+of+Computer+Science+%40+EELU+(QU+Branch)+🎓;Full-Stack+Developer;Building+modern+%26+clean+web+experiences)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const yousef = {
+  name: "Yousef Alian Abdelazeem",
+  title: "Full-Stack Web Developer",
+  location: "Egypt",
+
+  education: {
+    degree: "Graduate of Computer Science",
+    university: "EELU University",
+    branch: "QU Branch"
+  },
+
+  skills: {
+    frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "Angular", "Bootstrap"],
+    backend: ["ASP.NET"],
+    design: ["Figma"],
+    tools: ["Git", "GitHub"]
+  },
+
+  creativeTools: ["Lightroom", "Final Cut Pro", "CapCut"],
+
+  status: {
+    availableForWork: true,
+    focus: "Building modern, scalable & clean web experiences"
+  }
+};
+```
+
+---
+
+## 🛠️ Languages & Tools
+
+#### 🌐 Front-End
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,figma,dotnet" />
 </p>
 
-## 🛠 Languages and Tools:
-#### 🏆 **Core Technologies**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+#### 🏆 Core Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=java,mysql" />
+</p>
 
-#### 🌐 **Frontend Technologies**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### 🎨 Design & Editing
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=lightroom,figma" />
+  <img src="https://cdn.simpleicons.org/apple/000000" width="48" title="Final Cut Pro" />
+  <!-- <img src="https://cdn.simpleicons.org/capcut/000000" width="48" title="CapCut" /> -->
+</p>
 
-#### 🎨 **Design & Editing**
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-![Final Cut Pro](https://img.shields.io/badge/Final%20Cut%20Pro-FF9500?style=for-the-badge&logo=final-cut-pro&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-ffffff?style=for-the-badge&logo=capcut&logoColor=black)
+---
 
-## 📊 GitHub Stats:
-![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YousefA-Abdealzeem&show_icons=true&theme=dark)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefA-Abdealzeem&layout=compact&langs_count=10&theme=dark)
+## 🚀 Projects
 
+### 🌐 Front-End Projects (HTML / CSS / JS)
+
+| Project | Live Demo | Repository |
+|---------|-----------|------------|
+| 🔷 Project Name | [Live Demo](https://your-demo-link.com) | [GitHub Repo](https://github.com/YousefA-Abdealzeem/your-repo) |
+| 🔷 Project Name | [Live Demo](https://your-demo-link.com) | [GitHub Repo](https://github.com/YousefA-Abdealzeem/your-repo) |
+| 🔷 Project Name | [Live Demo](https://your-demo-link.com) | [GitHub Repo](https://github.com/YousefA-Abdealzeem/your-repo) |
+
+### 🅰️ Angular / TypeScript Projects
+
+| Project | Live Demo | Repository |
+|---------|-----------|------------|
+| 🔶 Project Name | [Live Demo](https://your-demo-link.com) | [GitHub Repo](https://github.com/YousefA-Abdealzeem/your-repo) |
+| 🔶 Project Name | [Live Demo](https://your-demo-link.com) | [GitHub Repo](https://github.com/YousefA-Abdealzeem/your-repo) |
+| 🔶 Project Name | [Live Demo](https://your-demo-link.com) | [GitHub Repo](https://github.com/YousefA-Abdealzeem/your-repo) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YousefA-Abdealzeem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefA-Abdealzeem&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YousefA-Abdealzeem&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yousef-alian-7a35ba29a" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn"/>
+</a>
+
+<a href="https://wa.me/201050202407" target="_blank">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="55" alt="WhatsApp"/>
+</a>
+
+<a href="https://www.instagram.com/yousefaliann" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="55" alt="Instagram"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+<sub>⭐ If you like my work, give my repos a star! It means a lot 🙏</sub>
+
+</div>
