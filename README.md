@@ -79,7 +79,7 @@ const yousef = {
 
 | Project | Live Demo | Repository |
 |---------|-----------|------------|
-| 🔶 Project Name | [Live Demo](https://your-demo-link.com) | [GitHub Repo](https://github.com/YousefA-Abdealzeem/your-repo) |
+| 🔶 Project Name | [Live Demo](https://delicious-d3228.web.app/) | [GitHub Repo](https://github.com/YousefA-Abdealzeem/Delicious) |
 | 🔶 Project Name | [Live Demo](https://your-demo-link.com) | [GitHub Repo](https://github.com/YousefA-Abdealzeem/your-repo) |
 | 🔶 Project Name | [Live Demo](https://your-demo-link.com) | [GitHub Repo](https://github.com/YousefA-Abdealzeem/your-repo) |
 
