@@ -61,7 +61,7 @@ const yousef = {
 <!-- ① Dolcino -->
 <div align="center">
 <a href="https://github.com/YousefA-Abdealzeem/Dolcino">
-<img src="./cards/card-dolcino.svg" width="100%" alt="Dolcino — Exquisite Sweets & Desserts"/>
+<img src="card-dolcino.svg" width="100%" alt="Dolcino — Exquisite Sweets & Desserts"/>
 </a>
 </div>
 
@@ -70,7 +70,7 @@ const yousef = {
 <!-- ② Delicious -->
 <div align="center">
 <a href="https://github.com/YousefA-Abdealzeem/Delicious">
-<img src="./cards/card-delicious.svg" width="100%" alt="Delicious — Modern Restaurant Web App"/>
+<img src="card-delicious.svg" width="100%" alt="Delicious — Modern Restaurant Web App"/>
 </a>
 </div>
 
@@ -79,7 +79,7 @@ const yousef = {
 <!-- ③ WomensSport -->
 <div align="center">
 <a href="https://github.com/YousefA-Abdealzeem/feminine-sports">
-<img src="./cards/card-feminine-sports.svg" width="100%" alt="WomensSport — Angular Sports App"/>
+<img src="card-feminine-sports.svg" width="100%" alt="WomensSport — Angular Sports App"/>
 </a>
 </div>
 
@@ -88,10 +88,13 @@ const yousef = {
 <!-- ④ & ⑤ Placeholders — replace src with your new card SVGs when ready -->
 <div align="center">
 <a href="https://github.com/YousefA-Abdealzeem">
-<img src="./cards/card-placeholder.svg" width="49%" alt="Coming Soon"/>
+<img src="card-placeholder.svg" width="49%" alt="Coming Soon"/>
 </a>
+  
+<br/>
+
 <a href="https://github.com/YousefA-Abdealzeem">
-<img src="./cards/card-placeholder.svg" width="49%" alt="Coming Soon"/>
+<img src="card-placeholder.svg" width="49%" alt="Coming Soon"/>
 </a>
 </div>
 
