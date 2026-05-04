@@ -56,43 +56,42 @@ const yousef = {
 
 ## `02` — What I've Shipped
 
-<!-- ① Delicious — HTML/CSS/JS -->
+<br/>
+
+<!-- ① Dolcino -->
 <div align="center">
-<a href="https://github.com/YousefA-Abdealzeem/your-repo">
-<img src="https://denvercoder1-github-readme-youtube-cards.vercel.app/api/cards?title=Delicious&description=Responsive+food+website+built+with+HTML+%2F+CSS+%2F+JavaScript&background=0A0A0F&border=FF4500&titleColor=FF4500&subtitleColor=F0EEE8&logoColor=FF7A3D" width="100%" alt="Delicious"/>
+<a href="https://github.com/YousefA-Abdealzeem/Dolcino">
+<img src="./cards/card-dolcino.svg" width="100%" alt="Dolcino — Exquisite Sweets & Desserts"/>
 </a>
 </div>
 
 <br/>
 
-<!-- ② Angular Delicious -->
+<!-- ② Delicious -->
 <div align="center">
 <a href="https://github.com/YousefA-Abdealzeem/Delicious">
-<img src="https://denvercoder1-github-readme-youtube-cards.vercel.app/api/cards?title=Delicious+%E2%80%94+Angular&description=Full+Angular+%2F+TypeScript+rebuild+with+component+architecture&background=0A0A0F&border=FF7A3D&titleColor=FF7A3D&subtitleColor=F0EEE8&logoColor=FF4500" width="100%" alt="Delicious Angular"/>
+<img src="./cards/card-delicious.svg" width="100%" alt="Delicious — Modern Restaurant Web App"/>
 </a>
 </div>
 
 <br/>
 
-<!-- ③ & ④ Side by side -->
+<!-- ③ WomensSport -->
 <div align="center">
-<a href="https://github.com/YousefA-Abdealzeem/your-repo">
-<img src="https://denvercoder1-github-readme-youtube-cards.vercel.app/api/cards?title=Project+Name&description=Short+description+of+this+project&background=0A0A0F&border=FF4500&titleColor=FF4500&subtitleColor=F0EEE8" width="49%" alt="Project 3"/>
-</a>
-<a href="https://github.com/YousefA-Abdealzeem/your-repo">
-<img src="https://denvercoder1-github-readme-youtube-cards.vercel.app/api/cards?title=Project+Name&description=Short+description+of+this+project&background=0A0A0F&border=FF4500&titleColor=FF4500&subtitleColor=F0EEE8" width="49%" alt="Project 4"/>
+<a href="https://github.com/YousefA-Abdealzeem/feminine-sports">
+<img src="./cards/card-feminine-sports.svg" width="100%" alt="WomensSport — Angular Sports App"/>
 </a>
 </div>
 
 <br/>
 
-<!-- ⑤ & ⑥ Side by side -->
+<!-- ④ & ⑤ Placeholders — replace src with your new card SVGs when ready -->
 <div align="center">
-<a href="https://github.com/YousefA-Abdealzeem/your-repo">
-<img src="https://denvercoder1-github-readme-youtube-cards.vercel.app/api/cards?title=Project+Name&description=Short+description+of+this+project&background=0A0A0F&border=FF4500&titleColor=FF4500&subtitleColor=F0EEE8" width="49%" alt="Project 5"/>
+<a href="https://github.com/YousefA-Abdealzeem">
+<img src="./cards/card-placeholder.svg" width="49%" alt="Coming Soon"/>
 </a>
-<a href="https://github.com/YousefA-Abdealzeem/your-repo">
-<img src="https://denvercoder1-github-readme-youtube-cards.vercel.app/api/cards?title=Project+Name&description=Short+description+of+this+project&background=0A0A0F&border=FF4500&titleColor=FF4500&subtitleColor=F0EEE8" width="49%" alt="Project 6"/>
+<a href="https://github.com/YousefA-Abdealzeem">
+<img src="./cards/card-placeholder.svg" width="49%" alt="Coming Soon"/>
 </a>
 </div>
 
