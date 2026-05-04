@@ -29,28 +29,9 @@ Based in **Egypt 🇪🇬** — I focus on building polished UIs with Angular & 
 
 ## `01` — About Me
 
-```typescript
-const yousef = {
-  name    : "Yousef Alian Abdelazeem",
-  role    : "Front-End Developer",
-  location: "Egypt 🇪🇬",
-
-  education: {
-    degree    : "B.Sc. Computer Science",
-    university: "EELU University — QU Branch",
-  },
-
-  currentFocus: [
-    "Building scalable Angular apps",
-    "Clean & accessible UI/UX",
-    "Sharpening TypeScript & ASP.NET skills",
-  ],
-
-  beyond_code: ["Lightroom", "Final Cut Pro", "CapCut"],
-
-  availableForWork: true,
-};
-```
+<div align="center">
+<img src="./cards/card-about.svg" width="100%" alt="Yousef Alian Abdelazeem — Developer Profile"/>
+</div>
 
 ---
 
@@ -61,7 +42,7 @@ const yousef = {
 <!-- ① Dolcino -->
 <div align="center">
 <a href="https://github.com/YousefA-Abdealzeem/Dolcino">
-<img src="card-dolcino.svg" width="100%" alt="Dolcino — Exquisite Sweets & Desserts"/>
+<img src="./cards/card-dolcino.svg" width="100%" alt="Dolcino — Exquisite Sweets & Desserts"/>
 </a>
 </div>
 
@@ -70,7 +51,7 @@ const yousef = {
 <!-- ② Delicious -->
 <div align="center">
 <a href="https://github.com/YousefA-Abdealzeem/Delicious">
-<img src="card-delicious.svg" width="100%" alt="Delicious — Modern Restaurant Web App"/>
+<img src="./cards/card-delicious.svg" width="100%" alt="Delicious — Modern Restaurant Web App"/>
 </a>
 </div>
 
@@ -79,7 +60,7 @@ const yousef = {
 <!-- ③ WomensSport -->
 <div align="center">
 <a href="https://github.com/YousefA-Abdealzeem/feminine-sports">
-<img src="card-feminine-sports.svg" width="100%" alt="WomensSport — Angular Sports App"/>
+<img src="./cards/card-feminine-sports.svg" width="100%" alt="WomensSport — Angular Sports App"/>
 </a>
 </div>
 
@@ -88,13 +69,10 @@ const yousef = {
 <!-- ④ & ⑤ Placeholders — replace src with your new card SVGs when ready -->
 <div align="center">
 <a href="https://github.com/YousefA-Abdealzeem">
-<img src="card-placeholder.svg" width="49%" alt="Coming Soon"/>
+<img src="./cards/card-placeholder.svg" width="49%" alt="Coming Soon"/>
 </a>
-  
-<br/>
-
 <a href="https://github.com/YousefA-Abdealzeem">
-<img src="card-placeholder.svg" width="49%" alt="Coming Soon"/>
+<img src="./cards/card-placeholder.svg" width="49%" alt="Coming Soon"/>
 </a>
 </div>
 
