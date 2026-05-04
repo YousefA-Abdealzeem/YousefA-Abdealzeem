@@ -1,0 +1,77 @@
+<svg width="800" height="340" viewBox="0 0 800 340" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', system-ui, sans-serif">
+  <defs>
+    <linearGradient id="bgMain" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0A0A0F"/>
+      <stop offset="100%" style="stop-color:#110805"/>
+    </linearGradient>
+    <linearGradient id="accentBar" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF4500"/>
+      <stop offset="100%" style="stop-color:#FF7A3D"/>
+    </linearGradient>
+    <linearGradient id="avatarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1A0A00"/>
+      <stop offset="100%" style="stop-color:#2A1000"/>
+    </linearGradient>
+    <clipPath id="avatarClip">
+      <circle cx="96" cy="170" r="54"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="340" rx="14" fill="url(#bgMain)"/>
+
+  <!-- Border -->
+  <rect width="800" height="340" rx="14" fill="none" stroke="#FF4500" stroke-width="1" stroke-opacity="0.5"/>
+
+  <!-- Top header bar -->
+  <rect x="0" y="0" width="800" height="52" rx="14" fill="#FF4500" fill-opacity="0.07"/>
+  <rect x="0" y="38" width="800" height="14" fill="#FF4500" fill-opacity="0.07"/>
+
+  <!-- Header label -->
+  <text x="28" y="32" font-size="10" fill="#FF4500" font-weight="700" letter-spacing="4" opacity="0.9">DEVELOPER PROFILE</text>
+  <text x="680" y="32" font-size="10" fill="#FF4500" font-weight="600" letter-spacing="2" opacity="0.5">2024</text>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="4" height="340" rx="2" fill="url(#accentBar)"/>
+
+  <!-- Avatar circle -->
+  <circle cx="96" cy="170" r="56" fill="url(#avatarGrad)" stroke="#FF4500" stroke-width="1.5" stroke-opacity="0.6"/>
+  <!-- Initials -->
+  <text x="96" y="163" font-size="22" font-weight="700" fill="#FF4500" text-anchor="middle">YA</text>
+  <text x="96" y="183" font-size="9" fill="#FF7A3D" text-anchor="middle" letter-spacing="1" opacity="0.7">DEV</text>
+
+  <!-- Vertical divider -->
+  <line x1="178" y1="68" x2="178" y2="308" stroke="#FF4500" stroke-width="0.5" stroke-opacity="0.2"/>
+
+  <!-- Name & title -->
+  <text x="200" y="96" font-size="26" font-weight="700" fill="#F0EEE8" letter-spacing="-0.5">Yousef Alian Abdelazeem</text>
+  <text x="202" y="118" font-size="12" fill="#FF4500" font-weight="600" letter-spacing="3">FRONT-END DEVELOPER  ·  EGYPT 🇪🇬</text>
+
+  <!-- Divider under name -->
+  <line x1="200" y1="130" x2="760" y2="130" stroke="#FF4500" stroke-width="0.5" stroke-opacity="0.2"/>
+
+  <!-- Info rows -->
+  <!-- Education -->
+  <text x="200" y="158" font-size="10" fill="#555" letter-spacing="2" font-weight="600">EDUCATION</text>
+  <text x="200" y="176" font-size="13" fill="#C0BEB8">B.Sc. Computer Science — EELU University, QU Branch</text>
+
+  <!-- Focus -->
+  <text x="200" y="206" font-size="10" fill="#555" letter-spacing="2" font-weight="600">CURRENTLY FOCUSED ON</text>
+  <text x="200" y="224" font-size="13" fill="#C0BEB8">Scalable Angular apps  ·  Clean UI/UX  ·  TypeScript</text>
+
+  <!-- Creative -->
+  <text x="200" y="254" font-size="10" fill="#555" letter-spacing="2" font-weight="600">BEYOND CODE</text>
+  <text x="200" y="272" font-size="13" fill="#C0BEB8">Lightroom  ·  Final Cut Pro  ·  CapCut</text>
+
+  <!-- Bottom status bar -->
+  <rect x="0" y="300" width="800" height="40" rx="0" fill="#FF4500" fill-opacity="0.06"/>
+  <rect x="0" y="300" width="800" height="1" fill="#FF4500" fill-opacity="0.2"/>
+  <rect x="0" y="326" width="800" height="14" rx="14" fill="#FF4500" fill-opacity="0.06"/>
+
+  <!-- Status dot -->
+  <circle cx="218" cy="320" r="4" fill="#4CAF50"/>
+  <text x="230" y="324" font-size="11" fill="#4CAF50" font-weight="600">AVAILABLE FOR WORK</text>
+
+  <!-- Right side ID number decoration -->
+  <text x="660" y="324" font-size="10" fill="#333" letter-spacing="2">ID · 2024 · EG</text>
+</svg>
