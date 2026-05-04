@@ -30,7 +30,7 @@ Based in **Egypt 🇪🇬** — I focus on building polished UIs with Angular & 
 ## `01` — About Me
 
 <div align="center">
-<img src="./cards/card-about.svg" width="100%" alt="Yousef Alian Abdelazeem — Developer Profile"/>
+<img src="card-about (1).svg" width="100%" alt="Yousef Alian Abdelazeem — Developer Profile"/>
 </div>
 
 ---
@@ -42,7 +42,7 @@ Based in **Egypt 🇪🇬** — I focus on building polished UIs with Angular & 
 <!-- ① Dolcino -->
 <div align="center">
 <a href="https://github.com/YousefA-Abdealzeem/Dolcino">
-<img src="./cards/card-dolcino.svg" width="100%" alt="Dolcino — Exquisite Sweets & Desserts"/>
+<img src="card-dolcino.svg" width="100%" alt="Dolcino — Exquisite Sweets & Desserts"/>
 </a>
 </div>
 
@@ -51,7 +51,7 @@ Based in **Egypt 🇪🇬** — I focus on building polished UIs with Angular & 
 <!-- ② Delicious -->
 <div align="center">
 <a href="https://github.com/YousefA-Abdealzeem/Delicious">
-<img src="./cards/card-delicious.svg" width="100%" alt="Delicious — Modern Restaurant Web App"/>
+<img src="card-delicious.svg" width="100%" alt="Delicious — Modern Restaurant Web App"/>
 </a>
 </div>
 
@@ -60,7 +60,7 @@ Based in **Egypt 🇪🇬** — I focus on building polished UIs with Angular & 
 <!-- ③ WomensSport -->
 <div align="center">
 <a href="https://github.com/YousefA-Abdealzeem/feminine-sports">
-<img src="./cards/card-feminine-sports.svg" width="100%" alt="WomensSport — Angular Sports App"/>
+<img src="card-feminine-sports.svg" width="100%" alt="WomensSport — Angular Sports App"/>
 </a>
 </div>
 
@@ -69,10 +69,13 @@ Based in **Egypt 🇪🇬** — I focus on building polished UIs with Angular & 
 <!-- ④ & ⑤ Placeholders — replace src with your new card SVGs when ready -->
 <div align="center">
 <a href="https://github.com/YousefA-Abdealzeem">
-<img src="./cards/card-placeholder.svg" width="49%" alt="Coming Soon"/>
+<img src="card-placeholder.svg" width="49%" alt="Coming Soon"/>
 </a>
+
+<br/>
+
 <a href="https://github.com/YousefA-Abdealzeem">
-<img src="./cards/card-placeholder.svg" width="49%" alt="Coming Soon"/>
+<img src="card-placeholder.svg" width="49%" alt="Coming Soon"/>
 </a>
 </div>
 
@@ -100,6 +103,7 @@ Based in **Egypt 🇪🇬** — I focus on building polished UIs with Angular & 
 **━━━━━━━━━━━━━━━━ Database ━━━━━━━━━━━━━━━━**
 
 [![MySQL](https://img.shields.io/badge/MySQL-0A0A0F?style=for-the-badge&logo=mysql&logoColor=FF4500)](https://www.mysql.com)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-0A0A0F?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF4500)](https://www.microsoft.com/en-us/sql-server)
 
 **━━━━━━━━━━━━━━━━ Design & Tools ━━━━━━━━━━━━━━━━**
 
@@ -140,7 +144,7 @@ Based in **Egypt 🇪🇬** — I focus on building polished UIs with Angular & 
 
 <br/>
 
-<a href="https://www.linkedin.com/in/yousef-alian-7a35ba29a"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=FF4500" /></a>
+<a href="https://www.linkedin.com/in/yousef-alian-7a35ba29a"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=FF4500&labelColor=0A0A0F" /></a>
 &nbsp;
 <a href="https://wa.me/201050202407"><img src="https://img.shields.io/badge/WhatsApp-0A0A0F?style=for-the-badge&logo=whatsapp&logoColor=FF4500" /></a>
 &nbsp;
