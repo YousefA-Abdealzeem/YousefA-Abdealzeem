@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2500&pause=800&color=C19C55&center=true&vCenter=true&multiline=false&width=600&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript+%7C+Angular;Building+modern+%26+scalable+web+applications+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2500&pause=800&color=C19C55&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Angular+%7C+TypeScript+%7C+APIs;Building+clean+%26+scalable+web+apps+%F0%9F%9A%80" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/yousef-alian-7a35ba29a"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=C19C55" /></a> <a href="https://wa.me/201050202407"><img src="https://img.shields.io/badge/WhatsApp-0A0A0F?style=for-the-badge&logo=whatsapp&logoColor=C19C55" /></a> <a href="https://www.instagram.com/yousefaliann"><img src="https://img.shields.io/badge/Instagram-0A0A0F?style=for-the-badge&logo=instagram&logoColor=C19C55" /></a> <a href="https://github.com/YousefA-Abdealzeem"><img src="https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=C19C55" /></a>
+<a href="https://www.linkedin.com/in/yousef-alian-7a35ba29a"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=C19C55"/></a> <a href="https://wa.me/201050202407"><img src="https://img.shields.io/badge/WhatsApp-0A0A0F?style=for-the-badge&logo=whatsapp&logoColor=C19C55"/></a> <a href="https://www.instagram.com/yousefaliann"><img src="https://img.shields.io/badge/Instagram-0A0A0F?style=for-the-badge&logo=instagram&logoColor=C19C55"/></a> <a href="https://github.com/YousefA-Abdealzeem"><img src="https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=C19C55"/></a>
 
 </div>
 
@@ -24,58 +24,101 @@
 
 ## Full-Stack Developer crafting scalable, high-performance web applications.
 
-Based in **Egypt 🇪🇬** — I build polished UIs with Angular & TypeScript and connect them with powerful backend systems. Focused on clean code, performance, and real-world products.
+Based in **Egypt 🇪🇬** — building modern UIs and connecting them with efficient backend systems.
 
-🚀 Currently open for impactful opportunities
+🚀 Open for impactful opportunities
 
 ---
 
 ## `01` — About Me
 
-<div align="center">
-<img src="card-about (1).svg" width="100%"/>
+<br/>
+
+<div align="center" style="width:90%;margin:auto;background:#0A0A0F;border:1px solid #1A1A24;border-radius:16px;padding:25px;box-shadow:0 0 25px rgba(193,156,85,0.08);">
+
+<h2 style="color:#C19C55;margin-bottom:5px;">Yousef Alian Abdelazeem</h2>
+
+<p style="color:#E6C37A;margin-bottom:15px;">
+Building products, not just interfaces.
+</p>
+
+<p style="color:#BFBFBF;font-size:15px;line-height:1.8;">
+Full-Stack Developer (Front-End focused) specialized in Angular & TypeScript, building fast, scalable, and maintainable applications with real-world impact.
+</p>
+
+<br/>
+
+<p style="color:#888;font-size:14px;">
+⚡ Clean Architecture • Performance • Responsive Design  
+<br/>
+⚡ Exploring Scalable Backend Systems  
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Angular-0A0A0F?style=for-the-badge&logo=angular&logoColor=C19C55"/>
+<img src="https://img.shields.io/badge/TypeScript-0A0A0F?style=for-the-badge&logo=typescript&logoColor=C19C55"/>
+<img src="https://img.shields.io/badge/ASP.NET-0A0A0F?style=for-the-badge&logo=dotnet&logoColor=C19C55"/>
+<img src="https://img.shields.io/badge/MySQL-0A0A0F?style=for-the-badge&logo=mysql&logoColor=C19C55"/>
+
 </div>
 
 ---
 
-## `02` — What I've Shipped
+## `02` — Featured Projects
 
 <br/>
 
 <div align="center">
+
+<!-- Dolcino -->
+
+<div style="background:#0A0A0F;border:1px solid #1A1A24;border-radius:16px;padding:22px;width:90%;box-shadow:0 0 20px rgba(193,156,85,0.08);">
+<h3 style="color:#C19C55;">Dolcino</h3>
+<p style="color:#BFBFBF;">Luxury sweets & desserts website with elegant UI.</p>
+<p style="color:#888;font-size:13px;">Angular • TypeScript • UI Design</p>
 <a href="https://github.com/YousefA-Abdealzeem/Dolcino">
-<img src="card-dolcino.svg" width="100%"/>
+<img src="https://img.shields.io/badge/View_Code-0A0A0F?style=for-the-badge&logo=github&logoColor=C19C55"/>
 </a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-0A0A0F?style=for-the-badge&logo=vercel&logoColor=C19C55"/></a>
 </div>
 
 <br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C19C55&height=2&width=300"/>
+
+<br/>
+
+<!-- Delicious -->
+
+<div style="background:#0A0A0F;border:1px solid #1A1A24;border-radius:16px;padding:22px;width:90%;box-shadow:0 0 20px rgba(193,156,85,0.08);">
+<h3 style="color:#C19C55;">Delicious</h3>
+<p style="color:#BFBFBF;">Modern restaurant web application.</p>
+<p style="color:#888;font-size:13px;">Angular • API Integration • Responsive</p>
 <a href="https://github.com/YousefA-Abdealzeem/Delicious">
-<img src="card-delicious.svg" width="100%"/>
+<img src="https://img.shields.io/badge/View_Code-0A0A0F?style=for-the-badge&logo=github&logoColor=C19C55"/>
 </a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-0A0A0F?style=for-the-badge&logo=vercel&logoColor=C19C55"/></a>
 </div>
 
 <br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C19C55&height=2&width=300"/>
+
+<br/>
+
+<!-- Womens Sport -->
+
+<div style="background:#0A0A0F;border:1px solid #1A1A24;border-radius:16px;padding:22px;width:90%;box-shadow:0 0 20px rgba(193,156,85,0.08);">
+<h3 style="color:#C19C55;">Womens Sport</h3>
+<p style="color:#BFBFBF;">Angular platform for women's sports.</p>
+<p style="color:#888;font-size:13px;">Angular • Components • State</p>
 <a href="https://github.com/YousefA-Abdealzeem/feminine-sports">
-<img src="card-feminine-sports.svg" width="100%"/>
+<img src="https://img.shields.io/badge/View_Code-0A0A0F?style=for-the-badge&logo=github&logoColor=C19C55"/>
 </a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-0A0A0F?style=for-the-badge&logo=vercel&logoColor=C19C55"/></a>
 </div>
 
-<br/>
-
-<div align="center">
-<a href="https://github.com/YousefA-Abdealzeem">
-<img src="card-placeholder.svg" width="49%"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/YousefA-Abdealzeem">
-<img src="card-placeholder.svg" width="49%"/>
-</a>
 </div>
 
 ---
@@ -84,27 +127,32 @@ Based in **Egypt 🇪🇬** — I build polished UIs with Angular & TypeScript a
 
 <div align="center">
 
-**━━━━━━━━━━━━━━━━ Languages ━━━━━━━━━━━━━━━━**
+### Languages
 
 ![HTML](https://img.shields.io/badge/HTML-0A0A0F?style=for-the-badge\&logo=html5\&logoColor=C19C55)
 ![CSS](https://img.shields.io/badge/CSS-0A0A0F?style=for-the-badge\&logo=css3\&logoColor=C19C55)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0F?style=for-the-badge\&logo=javascript\&logoColor=C19C55)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0F?style=for-the-badge\&logo=typescript\&logoColor=C19C55)
 ![Java](https://img.shields.io/badge/Java-0A0A0F?style=for-the-badge\&logo=openjdk\&logoColor=C19C55)
-![SQL](https://img.shields.io/badge/SQL-0A0A0F?style=for-the-badge\&logo=mysql\&logoColor=C19C55)
+![C#](https://img.shields.io/badge/C%23-0A0A0F?style=for-the-badge\&logo=csharp\&logoColor=C19C55)
 
-**━━━━━━━━━━━━━━━━ Frameworks & Libraries ━━━━━━━━━━━━━━━━**
+<br/>
+
+### Frameworks & Backend
 
 ![Angular](https://img.shields.io/badge/Angular-0A0A0F?style=for-the-badge\&logo=angular\&logoColor=C19C55)
+![.NET](https://img.shields.io/badge/.NET-0A0A0F?style=for-the-badge\&logo=dotnet\&logoColor=C19C55)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0A0A0F?style=for-the-badge\&logo=bootstrap\&logoColor=C19C55)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-0A0A0F?style=for-the-badge\&logo=dotnet\&logoColor=C19C55)
 
-**━━━━━━━━━━━━━━━━ Database ━━━━━━━━━━━━━━━━**
+<br/>
+
+### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-0A0A0F?style=for-the-badge\&logo=mysql\&logoColor=C19C55)
-![SQL Server](https://img.shields.io/badge/SQL_Server-0A0A0F?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=C19C55)
 
-**━━━━━━━━━━━━━━━━ Tools ━━━━━━━━━━━━━━━━**
+<br/>
+
+### Tools & Design
 
 ![Figma](https://img.shields.io/badge/Figma-0A0A0F?style=for-the-badge\&logo=figma\&logoColor=C19C55)
 ![Git](https://img.shields.io/badge/Git-0A0A0F?style=for-the-badge\&logo=git\&logoColor=C19C55)
@@ -112,37 +160,14 @@ Based in **Egypt 🇪🇬** — I build polished UIs with Angular & TypeScript a
 
 </div>
 
----
-
-## `04` — GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://streak-stats.demolab.com/?user=YousefA-Abdealzeem&theme=dark&hide_border=true&background=0A0A0F&ring=C19C55&fire=E6C37A&currStreakLabel=C19C55&sideLabels=E6C37A&dates=888888" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YousefA-Abdealzeem&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=C19C55&icon_color=E6C37A&text_color=F5F5F5&count_private=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefA-Abdealzeem&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=C19C55&text_color=F5F5F5" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YousefA-Abdealzeem&bg_color=0A0A0F&color=C19C55&line=E6C37A&point=C19C55&area=true&area_color=C19C55&hide_border=true" />
-
-</div>
 
 ---
 
-## `05` — Let's Connect
+## `04` — Let's Connect
 
 <div align="center">
 
-*Open to collaborations, freelance, and full-time opportunities*
-
-<br/>
-
-<a href="https://www.linkedin.com/in/yousef-alian-7a35ba29a"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=C19C55" /></a> <a href="https://wa.me/201050202407"><img src="https://img.shields.io/badge/WhatsApp-0A0A0F?style=for-the-badge&logo=whatsapp&logoColor=C19C55" /></a> <a href="https://www.instagram.com/yousefaliann"><img src="https://img.shields.io/badge/Instagram-0A0A0F?style=for-the-badge&logo=instagram&logoColor=C19C55" /></a> <a href="https://github.com/YousefA-Abdealzeem"><img src="https://img.shields.io/badge/Follow_GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=C19C55" /></a>
+<a href="https://www.linkedin.com/in/yousef-alian-7a35ba29a"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=C19C55"/></a> <a href="https://wa.me/201050202407"><img src="https://img.shields.io/badge/WhatsApp-0A0A0F?style=for-the-badge&logo=whatsapp&logoColor=C19C55"/></a> <a href="https://github.com/YousefA-Abdealzeem"><img src="https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=C19C55"/></a>
 
 <br/>
 
