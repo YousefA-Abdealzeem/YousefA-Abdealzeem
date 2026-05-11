@@ -1,0 +1,108 @@
+<svg width="100%" viewBox="0 0 680 280" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>My Portfolio — Yousef Alian</title>
+  <desc>Project card for the Angular 17 portfolio website</desc>
+  <defs>
+    <clipPath id="imgClip">
+      <rect x="380" y="24" width="272" height="232" rx="8"/>
+    </clipPath>
+  </defs>
+
+  <!-- Card background -->
+  <rect x="0" y="0" width="680" height="280" rx="12" fill="#0D0D12" stroke="#FF4500" stroke-width="0.5"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="4" height="280" rx="2" fill="#FF4500"/>
+
+  <!-- Top label -->
+  <text x="32" y="38" font-family="JetBrains Mono, monospace" font-size="11" fill="#FF4500" font-weight="600" letter-spacing="2">FEATURED PROJECT</text>
+
+  <!-- Project title -->
+  <text x="32" y="76" font-family="JetBrains Mono, monospace" font-size="26" fill="#F0EEE8" font-weight="700">&lt;YA/&gt; Portfolio</text>
+
+  <!-- Subtitle -->
+  <text x="32" y="102" font-family="JetBrains Mono, monospace" font-size="12" fill="#888780">Angular 17 · TypeScript · SCSS · Vercel</text>
+
+  <!-- Divider -->
+  <line x1="32" y1="118" x2="340" y2="118" stroke="#FF4500" stroke-width="0.5" stroke-opacity="0.4"/>
+
+  <!-- Description -->
+  <text x="32" y="140" font-family="JetBrains Mono, monospace" font-size="12" fill="#B4B2A9">A dark-luxury Angular portfolio with custom</text>
+  <text x="32" y="158" font-family="JetBrains Mono, monospace" font-size="12" fill="#B4B2A9">cursor, typing effects, scroll reveals &amp;</text>
+  <text x="32" y="176" font-family="JetBrains Mono, monospace" font-size="12" fill="#B4B2A9">animated skill sections.</text>
+
+  <!-- Tags -->
+  <rect x="32" y="194" width="72" height="22" rx="4" fill="#1A0A00" stroke="#FF4500" stroke-width="0.5"/>
+  <text x="68" y="209" font-family="JetBrains Mono, monospace" font-size="10" fill="#FF4500" text-anchor="middle">Angular 17</text>
+
+  <rect x="112" y="194" width="82" height="22" rx="4" fill="#1A0A00" stroke="#FF7A3D" stroke-width="0.5"/>
+  <text x="153" y="209" font-family="JetBrains Mono, monospace" font-size="10" fill="#FF7A3D" text-anchor="middle">TypeScript</text>
+
+  <rect x="202" y="194" width="56" height="22" rx="4" fill="#1A0A00" stroke="#FF9966" stroke-width="0.5"/>
+  <text x="230" y="209" font-family="JetBrains Mono, monospace" font-size="10" fill="#FF9966" text-anchor="middle">SCSS</text>
+
+  <rect x="266" y="194" width="56" height="22" rx="4" fill="#1A0A00" stroke="#FF7A3D" stroke-width="0.5"/>
+  <text x="294" y="209" font-family="JetBrains Mono, monospace" font-size="10" fill="#FF7A3D" text-anchor="middle">Vercel</text>
+
+  <!-- Live Demo button -->
+  <rect x="32" y="232" width="110" height="28" rx="5" fill="#FF4500"/>
+  <text x="87" y="250" font-family="JetBrains Mono, monospace" font-size="11" fill="#0D0D12" font-weight="700" text-anchor="middle">&#x1F517; Live Demo</text>
+
+  <!-- GitHub button -->
+  <rect x="152" y="232" width="96" height="28" rx="5" fill="#1A0A00" stroke="#FF4500" stroke-width="0.5"/>
+  <text x="200" y="250" font-family="JetBrains Mono, monospace" font-size="11" fill="#FF4500" text-anchor="middle">&#x2325; GitHub</text>
+
+  <!-- Right: browser mockup frame -->
+  <rect x="380" y="24" width="272" height="232" rx="8" fill="#0A0A0F" stroke="#FF4500" stroke-width="0.5"/>
+
+  <!-- Browser bar -->
+  <rect x="380" y="24" width="272" height="24" rx="8" fill="#1A1A24"/>
+  <rect x="380" y="36" width="272" height="12" fill="#1A1A24"/>
+  <circle cx="396" cy="36" r="4" fill="#FF4500" fill-opacity="0.5"/>
+  <circle cx="410" cy="36" r="4" fill="#FF7A3D" fill-opacity="0.5"/>
+  <circle cx="424" cy="36" r="4" fill="#FF9966" fill-opacity="0.5"/>
+  <rect x="440" y="29" width="140" height="14" rx="4" fill="#0D0D12"/>
+  <text x="510" y="40" font-family="JetBrains Mono, monospace" font-size="8" fill="#888780" text-anchor="middle">yousef-five.vercel.app</text>
+
+  <!-- Screen: navbar -->
+  <rect x="380" y="48" width="272" height="18" fill="#0D0D12"/>
+  <text x="392" y="60" font-family="JetBrains Mono, monospace" font-size="8" fill="#FF4500" font-weight="700">&lt;YA/&gt;</text>
+  <text x="470" y="60" font-family="JetBrains Mono, monospace" font-size="7" fill="#888780">About  Skills  Projects</text>
+  <rect x="612" y="51" width="32" height="11" rx="3" fill="#6C63FF"/>
+  <text x="628" y="60" font-family="JetBrains Mono, monospace" font-size="7" fill="#F0EEE8" text-anchor="middle">Hire</text>
+
+  <!-- Screen: hero text -->
+  <rect x="388" y="74" width="72" height="10" rx="3" fill="#1A0A00" stroke="#FF4500" stroke-width="0.3"/>
+  <text x="424" y="82" font-family="JetBrains Mono, monospace" font-size="6" fill="#FF4500" text-anchor="middle">&#x25CF; Available</text>
+
+  <text x="388" y="96" font-family="JetBrains Mono, monospace" font-size="7" fill="#F0EEE8">Hi, I'm</text>
+  <text x="388" y="109" font-family="JetBrains Mono, monospace" font-size="10" fill="#FF4500" font-weight="700">Yousef Alian</text>
+  <text x="388" y="122" font-family="JetBrains Mono, monospace" font-size="8" fill="#B4B2A9">Frontend Dev</text>
+
+  <rect x="388" y="130" width="40" height="10" rx="2" fill="#6C63FF"/>
+  <text x="408" y="138" font-family="JetBrains Mono, monospace" font-size="6" fill="#F0EEE8" text-anchor="middle">View Work</text>
+
+  <!-- Screen: avatar circle -->
+  <circle cx="590" cy="140" r="52" fill="#CC3D00" fill-opacity="0.8"/>
+  <circle cx="590" cy="140" r="52" fill="none" stroke="#6C63FF" stroke-width="1.5"/>
+
+  <!-- Floating badges on screen -->
+  <rect x="618" y="84" width="32" height="12" rx="3" fill="#1A1A24" stroke="#FF4500" stroke-width="0.3"/>
+  <text x="634" y="93" font-family="JetBrains Mono, monospace" font-size="6" fill="#FF4500" text-anchor="middle">Angular</text>
+
+  <rect x="535" y="176" width="40" height="12" rx="3" fill="#1A1A24" stroke="#FF7A3D" stroke-width="0.3"/>
+  <text x="555" y="185" font-family="JetBrains Mono, monospace" font-size="6" fill="#FF7A3D" text-anchor="middle">TypeScript</text>
+
+  <!-- Screen: stats bar -->
+  <rect x="380" y="204" width="272" height="52" fill="#0A0A0F"/>
+  <line x1="380" y1="204" x2="652" y2="204" stroke="#FF4500" stroke-width="0.3" stroke-opacity="0.4"/>
+  <text x="420" y="220" font-family="JetBrains Mono, monospace" font-size="9" fill="#FF4500" font-weight="700" text-anchor="middle">2+</text>
+  <text x="420" y="232" font-family="JetBrains Mono, monospace" font-size="6" fill="#888780" text-anchor="middle">YEARS EXP</text>
+  <text x="516" y="220" font-family="JetBrains Mono, monospace" font-size="9" fill="#FF4500" font-weight="700" text-anchor="middle">10+</text>
+  <text x="516" y="232" font-family="JetBrains Mono, monospace" font-size="6" fill="#888780" text-anchor="middle">PROJECTS</text>
+  <text x="612" y="220" font-family="JetBrains Mono, monospace" font-size="9" fill="#FF4500" font-weight="700" text-anchor="middle">5+</text>
+  <text x="612" y="232" font-family="JetBrains Mono, monospace" font-size="6" fill="#888780" text-anchor="middle">CERTS</text>
+
+  <!-- Decorative dots -->
+  <circle cx="655" cy="255" r="3" fill="#FF4500" fill-opacity="0.4"/>
+  <circle cx="645" cy="265" r="2" fill="#FF7A3D" fill-opacity="0.3"/>
+</svg>
