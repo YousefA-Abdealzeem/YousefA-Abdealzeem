@@ -66,6 +66,16 @@ Based in **Egypt 🇪🇬** — I focus on building polished UIs with Angular & 
 
 <br/>
 
+
+<!-- ⑤ My Portfolio -->
+<div align="center">
+<a href="https://yousef-five.vercel.app/">
+<img src="card-portfolio.svg" width="100%" alt="My Portfolio — Angular 17"/>
+</a>
+</div>
+
+<br/>
+
 <!-- ④ & ⑤ Placeholders — replace src with your new card SVGs when ready -->
 <div align="center">
 <a href="https://github.com/YousefA-Abdealzeem">
